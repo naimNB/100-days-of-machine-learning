@@ -1,0 +1,3 @@
+# 100 Days of Machine Learning
+
+This repository contains my notes, code, experiments, and mini projects while learning Machine Learning from the CampusX 100 Days of ML playlist.
