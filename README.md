@@ -1,11 +1,6 @@
 # 100 Days of Machine Learning
 
-<<<<<<< HEAD
-=======
-<div style="overflow:hidden; white-space:nowrap;">
-  <div style="display:inline-block; padding-left:100%; animation:scroll 15s linear infinite;">
-<pre>
->>>>>>> 0645610 (Add notebook for Batch, Online, and Offline Machine Learning concepts)
+
 ```text
 ██╗███╗   ██╗████████╗██████╗  ██████╗ ██████╗ ██╗   ██╗ ██████╗████████╗██╗ ██████╗ ███╗   ██╗    ████████╗ ██████╗     ███╗   ███╗███████╗ ██████╗██╗  ██╗██╗███╗   ██╗███████╗    ██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗
 ██║████╗  ██║╚══██╔══╝██╔══██╗██╔═══██╗██╔══██╗██║   ██║██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║    ╚══██╔══╝██╔═══██╗    ████╗ ████║██╔════╝██╔════╝██║  ██║██║████╗  ██║██╔════╝    ██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝
@@ -14,23 +9,7 @@
 ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝██████╔╝╚██████╔╝╚██████╗   ██║   ██║╚██████╔╝██║ ╚████║       ██║   ╚██████╔╝    ██║ ╚═╝ ██║███████╗╚██████╗██║  ██║██║██║ ╚████║███████╗    ███████╗███████╗██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
 ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝       ╚═╝    ╚═════╝     ╚═╝     ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
-<<<<<<< HEAD
-=======
-</pre>
-  </div>
-</div>
 
-<style>
-@keyframes scroll {
-  0% {
-    transform: translateX(0%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-</style>
->>>>>>> 0645610 (Add notebook for Batch, Online, and Offline Machine Learning concepts)
 
 
 This repository contains my notes, code, experiments, and mini projects while learning Machine Learning from the CampusX 100 Days of ML playlist.
