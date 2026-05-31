@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Placement Predictor</title>
+</head>
+<body>
+    <h1>Placement Predictor</h1>
+
+    <form action="/predict" method="POST">
+        <label>CGPA:</label>
+        <input type="number" step="0.01" name="cgpa" required>
+
+        <br><br>
+
+        <label>IQ:</label>
+        <input type="number" step="0.01" name="iq" required>
+
+        <br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if prediction_text %}
+        <h2>Result: {{ prediction_text }}</h2>
+    {% endif %}
+</body>
+</html>
