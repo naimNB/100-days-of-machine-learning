@@ -18,7 +18,7 @@ def predict():
     features = np.array([[cgpa, iq]])
     prediction = model.predict(features)[0]
 
-    result = "Placed" if prediction == 1 else "Not Placed"
+    result = "Congratulations, you are Placed" if prediction == 1 else "Sorry. you try again,Best of luck of your next time!"
 
     return render_template("index.html", prediction_text=result)
 
